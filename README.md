@@ -1,6 +1,6 @@
 [![MasterHead](https://rcxpn.com/wp-content/uploads/2023/01/github-banner.png)](https://rcxpn.com)
-<h1 align="center">Hello I'm Loosed</h1>
-<h3 align="center" Developer from Sweden</h3>
+<h1 align="center">Hello I'm Loosed a Swedish developer</h1>
+<h3 align="center" </h3>
 
 <img align="right" alt="Coding" width="100" src="https://cdn3.emoji.gg/emojis/8761_among_us_blue.png" href="https://www.innersloth.com/games/among-us/">
 
