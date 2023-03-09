@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="100" src="https://cdn3.emoji.gg/emojis/8761_among_us_blue.png" href="https://www.innersloth.com/games/among-us/">
 
-Website: [rcxpn.com](https://rcxpn.com)
+Website: [www.rcxpn.com](https://www.rcxpn.com)
 
 Reach me at: **support@rcxpn.com**
 
