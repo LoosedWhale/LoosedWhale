@@ -6,7 +6,7 @@
 
 Website: [www.rcxpn.com](https://www.rcxpn.com)
 
-Reach me at: **support@rcxpn.com**
+Contact me at: **support@rcxpn.com**
 
 <h3 align="left">Find me on: </h3>
 <p align="left">
