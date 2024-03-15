@@ -1,12 +1,12 @@
-[![MasterHead](https://rcxpn.com/wp-content/uploads/2023/01/github-banner.png)](https://rcxpn.com)
-<h1 align="center">Hello I'm Loosed a Swedish developer</h1>
+[![MasterHead](https://media.discordapp.net/attachments/1118583834615763014/1218127864772427817/GitHubBanner.png?ex=660688fa&is=65f413fa&hm=aecff6cafb6b01318a710199e434177ec8f64d3147b1d32eea8579c48e2d251a&=&format=webp&quality=lossless&)](https://www.youtube.com/@loosedwhale)
+<h1 align="center">Hello I'm Theo a Swedish developer</h1>
 <h3 align="center" </h3>
 
 <img align="right" alt="Coding" width="100" src="https://cdn3.emoji.gg/emojis/8761_among_us_blue.png" href="https://www.innersloth.com/games/among-us/">
 
-Website: [www.rcxpn.com](https://www.rcxpn.com)
+~~Website: [www.rcxpn.com](https://www.rcxpn.com)~~
 
-Contact me at: **support@rcxpn.com**
+~~Contact me at: **support@rcxpn.com**~~
 
 <h3 align="left">Find me on: </h3>
 <p align="left">
