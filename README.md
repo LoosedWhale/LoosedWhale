@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/1118583834615763014/1218127864772427817/GitHubBanner.png?ex=660688fa&is=65f413fa&hm=aecff6cafb6b01318a710199e434177ec8f64d3147b1d32eea8579c48e2d251a&=&format=webp&quality=lossless&)](https://www.youtube.com/@loosedwhale)
+[![MasterHead](https://media.discordapp.net/attachments/1118583834615763014/1219392973511594155/github-banner.png?ex=660b2334&is=65f8ae34&hm=33c0c6d18e3016863ed7159f9c9bca2221da9bd49c9d5804d88f79885ef9c2be&=&format=webp&quality=lossless&)](https://www.youtube.com/@loosedwhale)
 <h1 align="center">Hello I'm Theo a Swedish developer</h1>
 <h3 align="center" </h3>
 
