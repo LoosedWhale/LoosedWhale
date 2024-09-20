@@ -1,7 +1,5 @@
-[![MasterHead](https://media.discordapp.net/attachments/1118583834615763014/1219392973511594155/github-banner.png?ex=660b2334&is=65f8ae34&hm=33c0c6d18e3016863ed7159f9c9bca2221da9bd49c9d5804d88f79885ef9c2be&=&format=webp&quality=lossless&)](https://www.youtube.com/@loosedwhale)
+<img src="github-banner.webp">
 <h1 align="center">Hello I'm Theo a Swedish developer</h1>
-<h3 align="center" </h3>
-
 <img align="right" alt="Coding" width="100" src="https://cdn3.emoji.gg/emojis/8761_among_us_blue.png" href="https://www.innersloth.com/games/among-us/">
 
 ~~Website: [www.rcxpn.com](https://www.rcxpn.com)~~
