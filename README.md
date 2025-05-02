@@ -1,16 +1,6 @@
 <img src="github-banner.webp">
-<h1 align="center">Hello I'm Theo a Swedish developer</h1>
+<h1 align="center"> I'm Theo, I write bad code :3 </h1>
 <img align="right" alt="Coding" width="100" src="https://cdn3.emoji.gg/emojis/8761_among_us_blue.png" href="https://www.innersloth.com/games/among-us/">
-
-~~Website: [www.rcxpn.com](https://www.rcxpn.com)~~
-
-~~Contact me at: **support@rcxpn.com**~~
-
-<h3 align="left">Find me on: </h3>
-<p align="left">
-<a href="https://codepen.io/loosedwhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="loosedwhale" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@loosedwhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="loosedwhale" height="30" width="40" /></a>
-</p>
 
 <div align="center">
 <h3>Languages and Tools:</h3>
